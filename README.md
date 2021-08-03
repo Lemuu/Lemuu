@@ -1,13 +1,13 @@
-### Hi there 👋
-
-### About me
-[![Linked In](https://img.shields.io/badge/-lemu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemu/)](https://www.linkedin.com/in/lemu/)
-[![Gmail](https://img.shields.io/badge/-lemuelbrenner@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemuelbrenner@gmail.com)](mailto:lemuelbrenner@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Lemuu?label=follow&style=social)](https://github.com/Lemuu)
+### sup dude 👋
 
 <a href="https://github.com/Lemuu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lemuu&theme=dracula&show_icons=true" />
 </a>
+
+### Find me
+[![Linked In](https://img.shields.io/badge/-lemu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lemu/)](https://www.linkedin.com/in/lemu/)
+[![Gmail](https://img.shields.io/badge/-lemuelbrenner@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemuelbrenner@gmail.com)](mailto:lemuelbrenner@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Lemuu?label=follow&style=social)](https://github.com/Lemuu)
 
 
 <!--
